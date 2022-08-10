@@ -12,10 +12,3 @@ Identifying the correct meaning of words in context or discovering new word sens
 If you use any code or sources from MSC patterns in your research work, you are kindly asked to acknowledge the use of the tool in your publications.
 
 >Goularte, F.B., Sorato, D., Nassar, S.M., Fileto, R., Saggion, H. "MSC<sup>+</sup>: Morpho-semantic Components for Word Sense Induction and Disambiguation." 2019.
-
-BibTeX:
-```
-In process of review
-```
-
-
